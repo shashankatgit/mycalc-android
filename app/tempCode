@@ -1,0 +1,78 @@
+ void actBtn0(){
+       curOpText.concat("0");
+    }
+
+    void actBtn1(){
+        curOpValue*=10;
+        curOpValue+=1;
+    }
+
+    void actBtn2(){
+        curOpValue*=10;
+        curOpValue+=2;
+    }
+
+    void actBtn3(){
+        curOpValue*=10;
+        curOpValue+=3;
+    }
+
+    void actBtn4(){
+        curOpValue*=10;
+        curOpValue+=4;
+    }
+
+    void actBtn5(){
+        curOpValue*=10;
+        curOpValue+=5;
+    }
+
+    void actBtn6(){
+        curOpValue*=10;
+        curOpValue+=6;
+    }
+
+    void actBtn7(){
+        curOpValue*=10;
+        curOpValue+=7;
+    }
+
+    void actBtn8(){
+        curOpValue*=10;
+        curOpValue+=8;
+    }
+
+    void actBtn9(){
+        curOpValue*=10;
+        curOpValue+=9;
+    }
+
+
+    void actBtnEquals(){
+
+    }
+
+    void actBtnAdd(){
+
+    }
+
+    void actBtnSub(){
+
+    }
+
+    void actBtnMul(){
+
+    }
+
+    void actBtnDiv(){
+
+    }
+
+
+    void actBtnClear(){
+
+    }
+
+    void actBtnDel(){
+
+    }
